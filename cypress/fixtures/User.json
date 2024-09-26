@@ -1,0 +1,18 @@
+
+
+{
+ 
+  "DataUser1": {
+    "usern": "standard_user",
+    "users": "secret_sauce",
+    "firstname": "dududd",
+    "lastname" : "bibuu",
+    "codec" : "1234"
+  },
+  "DataUser2": {
+    "usern": "standard_userr",
+    "users": "secret_sauce"
+  }
+ 
+  
+}
